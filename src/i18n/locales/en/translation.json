@@ -79,6 +79,10 @@
       "gemini-api": {
         "name": "Gemini API",
         "description": "Cloud-based transcription via Google Gemini. Requires API key and internet."
+      },
+      "gigaam-v3-e2e-ctc": {
+        "name": "GigaAM v3",
+        "description": "Russian speech recognition. Fast and accurate."
       }
     },
     "errors": {
